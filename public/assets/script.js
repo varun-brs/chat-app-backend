@@ -1,4 +1,4 @@
-const url = "http://203.193.173.125:4001/";
+const url = "";
 const socket = io.connect(url);
 const chat = [];
 
